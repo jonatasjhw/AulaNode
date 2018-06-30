@@ -1,0 +1,21 @@
+{
+  "name": "nodejscrudapi",
+  "version": "1.0.0",
+  "description": "API REST Node - 23 06 2018",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "gi",
+    "url": "https://github.com/jonatasjhw/AulaNode.git"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.3",
+    "express": "~4.16.3",
+    "mongoose": "~5.1.6",
+    "request": "~2.87.0"
+  },
+  "author": "Jônatas",
+  "license": "ISC"
+}
